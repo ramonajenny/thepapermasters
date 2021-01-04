@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  letter-spacing: 3.5px;
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
