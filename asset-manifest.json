@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thepapermasters/static/css/main.de19773d.chunk.css",
+    "main.js": "/thepapermasters/static/js/main.b5337bfa.chunk.js",
+    "main.js.map": "/thepapermasters/static/js/main.b5337bfa.chunk.js.map",
+    "runtime-main.js": "/thepapermasters/static/js/runtime-main.c7a4eed9.js",
+    "runtime-main.js.map": "/thepapermasters/static/js/runtime-main.c7a4eed9.js.map",
+    "static/js/2.7d4e5330.chunk.js": "/thepapermasters/static/js/2.7d4e5330.chunk.js",
+    "static/js/2.7d4e5330.chunk.js.map": "/thepapermasters/static/js/2.7d4e5330.chunk.js.map",
+    "static/js/3.4bb04723.chunk.js": "/thepapermasters/static/js/3.4bb04723.chunk.js",
+    "static/js/3.4bb04723.chunk.js.map": "/thepapermasters/static/js/3.4bb04723.chunk.js.map",
+    "index.html": "/thepapermasters/index.html",
+    "static/css/main.de19773d.chunk.css.map": "/thepapermasters/static/css/main.de19773d.chunk.css.map",
+    "static/js/2.7d4e5330.chunk.js.LICENSE.txt": "/thepapermasters/static/js/2.7d4e5330.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7a4eed9.js",
+    "static/js/2.7d4e5330.chunk.js",
+    "static/css/main.de19773d.chunk.css",
+    "static/js/main.b5337bfa.chunk.js"
+  ]
+}
