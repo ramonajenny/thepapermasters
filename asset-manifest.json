@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/thepapermasters/static/css/main.de19773d.chunk.css",
-    "main.js": "/thepapermasters/static/js/main.b5337bfa.chunk.js",
-    "main.js.map": "/thepapermasters/static/js/main.b5337bfa.chunk.js.map",
+    "main.js": "/thepapermasters/static/js/main.54011d63.chunk.js",
+    "main.js.map": "/thepapermasters/static/js/main.54011d63.chunk.js.map",
     "runtime-main.js": "/thepapermasters/static/js/runtime-main.c7a4eed9.js",
     "runtime-main.js.map": "/thepapermasters/static/js/runtime-main.c7a4eed9.js.map",
     "static/js/2.7d4e5330.chunk.js": "/thepapermasters/static/js/2.7d4e5330.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c7a4eed9.js",
     "static/js/2.7d4e5330.chunk.js",
     "static/css/main.de19773d.chunk.css",
-    "static/js/main.b5337bfa.chunk.js"
+    "static/js/main.54011d63.chunk.js"
   ]
 }
