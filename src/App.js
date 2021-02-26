@@ -16,9 +16,8 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('http://localhost:3000/users.json')
-        .then(response => response.json())
-        .then(users => this.setState({monsters: users}));
+      let data = require("../src/users.json")
+      this.setState({monsters: data});
   }
 
   handleChange = e => {
@@ -30,13 +29,13 @@ class App extends Component {
     const filteredMonsters = monsters.filter(monster => monster.name.toLowerCase().includes(searchField.toLowerCase()))
     return (
         <div className="App">
-          <h1> The Papermasters </h1>
+          <h1> The Papermasters, Inc. </h1>
         <SearchBox
             placeholder='search papermasters'
             handleChange={this.handleChange}/>
         <CardList monsters={filteredMonsters}/>
         <div className="footer">
-          <h5>2020 The Papermasters, Inc.</h5>
+          <h5>2021 The Papermasters, Inc.</h5>
         </div>
         </div>
     );
