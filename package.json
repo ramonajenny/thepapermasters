@@ -4,13 +4,15 @@
   "private": true,
   "homepage": "https://www.thepapermasters.com",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.2.2",
-    "@testing-library/user-event": "^12.6.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.3",
     "gh-pages": "^3.1.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "^4.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^4.0.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
