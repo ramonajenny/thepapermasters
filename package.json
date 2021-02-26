@@ -2,7 +2,7 @@
   "name": "monsters-roladex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ramonajenny.github.io/thepapermasters",
+  "homepage": "https://www.thepapermasters.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
