@@ -30,10 +30,10 @@ class App extends Component {
         //<CardList monsters={filteredMonsters}/>
       return (
         <div className="App">
-          <h1> The Papermasters, Inc. </h1>
+          <h1> ramonajenny, inc. </h1>
 
         <div className="footer">
-          <h5>2021 The Papermasters, Inc.</h5>
+          <h5>2021 ramonajenny, inc. </h5>
         </div>
         </div>
     );
