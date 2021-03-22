@@ -33,7 +33,7 @@ class App extends Component {
           <h1> ramonajenny, inc. </h1>
 
         <div className="footer">
-          <h5>2021 ramonajenny, inc. </h5>
+          <h5> 2021 ramonajenny, inc. </h5>
         </div>
         </div>
     );
